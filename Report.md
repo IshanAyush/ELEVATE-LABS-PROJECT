@@ -96,9 +96,9 @@ Key model features include:
 
 | Metric                  | Value   |
 |-------------------------|---------|
-| **Accuracy**            | ~82%    |
-| **ROC AUC Score**       | ~0.89   |
-| **Precision-Recall AUC**| ~0.84   |
+| **Accuracy**            | ~79%    |
+| **ROC AUC Score**       | ~0.86   |
+| **Precision-Recall AUC**| ~0.85   |
 
 The model performs well in distinguishing between show and no-show cases.
 
@@ -146,5 +146,3 @@ The model performs well in distinguishing between show and no-show cases.
 - Integrate hospital policy simulation for testing interventions
 
 ---
-
-
